@@ -1,0 +1,14 @@
+﻿  Reading Qt configuration (D:/soft/qt5.7.1/5.7/msvc2015_64/bin/qmake)
+  uic DataSplit.ui
+  rcc DataSplit.qrc
+  moc DataSplit.h
+  moc serialworker.h
+  FrameParseClass.cpp
+  serialworker.cpp
+  DataSplit.cpp
+  main.cpp
+E:\Project\2021\Integrated_control\IntegratedControl-DEV\DataSplit\DataSplit\FrameParseClass.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  qrc_DataSplit.cpp
+  moc_DataSplit.cpp
+  moc_serialworker.cpp
+  DataSplit.vcxproj -> E:\Project\2021\Integrated_control\IntegratedControl-DEV\DataSplit\x64\Release\DataSplit.exe

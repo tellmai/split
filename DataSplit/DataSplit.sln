@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataSplit", "DataSplit\DataSplit.vcxproj", "{00B18AB1-A381-4025-A1A9-067EEA612CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B18AB1-A381-4025-A1A9-067EEA612CE9}.Debug|x64.ActiveCfg = Debug|x64
+		{00B18AB1-A381-4025-A1A9-067EEA612CE9}.Debug|x64.Build.0 = Debug|x64
+		{00B18AB1-A381-4025-A1A9-067EEA612CE9}.Release|x64.ActiveCfg = Release|x64
+		{00B18AB1-A381-4025-A1A9-067EEA612CE9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32861F46-DD6C-4D43-953E-339AEA611B1F}
+	EndGlobalSection
+EndGlobal

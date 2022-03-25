@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/DataSplit">
+        <file>image_1/bt__disable.png</file>
+        <file>image_1/bt_active.png</file>
+        <file>image_1/bt_hover.png</file>
+        <file>image_1/bt_normal.png</file>
+        <file>image_1/close_active.png</file>
+        <file>image_1/close_hover.png</file>
+        <file>image_1/close_normal.png</file>
+        <file>image_1/Connection statuP_disable2.png</file>
+        <file>image_1/Connection statuP_green.png</file>
+        <file>image_1/Connection statuP_green2.png</file>
+        <file>image_1/Connection statuP_red.png</file>
+        <file>image_1/Connection statuP_red2.png</file>
+        <file>image_1/enlarg_active.png</file>
+        <file>image_1/enlarge_hover.png</file>
+        <file>image_1/enlarge_normal.png</file>
+        <file>image_1/folder.png</file>
+        <file>image_1/icon-sort.png</file>
+        <file>image_1/logo.png</file>
+        <file>image_1/logo16.ico</file>
+        <file>image_1/logo32.ico</file>
+        <file>image_1/logo48.ico</file>
+        <file>image_1/logo64.ico</file>
+        <file>image_1/logo128.ico</file>
+        <file>image_1/logo256.ico</file>
+        <file>image_1/maximize_hover(1).png</file>
+        <file>image_1/maximize_hover.png</file>
+        <file>image_1/maximize_normal.png</file>
+        <file>image_1/minimize_active.png</file>
+        <file>image_1/minimize_hover.png</file>
+        <file>image_1/minimize_normal.png</file>
+        <file>image_1/task_doing.gif</file>
+        <file>image_1/uping.gif</file>
+        <file>image_1/切图.png</file>
+        <file>image_1/数据采集测试工装-主界面.png</file>
+    </qresource>
+</RCC>
